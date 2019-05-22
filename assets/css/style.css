@@ -219,6 +219,12 @@ input[type=submit] {
   .container {
     width: 90%;
   }
+  #main-container {
+    width: 60%;
+    float: left;
+    margin-left: 5%;
+    font-size: 16px;
+  }
   .work {
     margin-left: 65px;
   }
@@ -254,5 +260,6 @@ input[type=submit] {
   }
   .work {
     width: 100%;
+    margin-left: 5px;
   }
 }
