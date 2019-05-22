@@ -12,3 +12,18 @@ ___
 
 ___
 
+![Index Page 980px](assets/images/index_page_screenshot.png)
+![Index Page 768px](assets/images/portfolio-page-screenshot.png)
+![Index Page 640px](assets/images/contact-page-screenshot.png)
+
+___
+
+![Portfolio Page 980px](assets/images/index_page_screenshot.png)
+![Portfolio Page 768px](assets/images/portfolio-page-screenshot.png)
+![Portfolio Page 640px](assets/images/contact-page-screenshot.png)
+
+___
+
+![Contact Page 980px](assets/images/index_page_screenshot.png)
+![Contact Page 768px](assets/images/portfolio-page-screenshot.png)
+![Contact Page 640px](assets/images/contact-page-screenshot.png)

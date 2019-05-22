@@ -219,6 +219,9 @@ input[type=submit] {
   .container {
     width: 90%;
   }
+  .work {
+    margin-left: 65px;
+  }
   
 }
 
