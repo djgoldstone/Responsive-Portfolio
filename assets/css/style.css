@@ -229,6 +229,9 @@ input[type=submit] {
   .container {
     width: 95%;
   }
+  .work {
+    width: 35%;
+  }
   
 }
 
