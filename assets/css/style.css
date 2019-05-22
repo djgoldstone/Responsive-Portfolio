@@ -224,6 +224,7 @@ input[type=submit] {
     float: left;
     margin-left: 5%;
     font-size: 16px;
+    margin-bottom: 25%;
   }
   .work {
     margin-left: 65px;
@@ -238,7 +239,14 @@ input[type=submit] {
   .work {
     width: 35%;
   }
-  
+  #main-container {
+    width: 100%;
+    padding-right: 10%;
+    margin-bottom: 25%;
+  }
+  .auth-image {
+    width: 60%;
+  }
 }
 
 @media (max-width: 640px) {

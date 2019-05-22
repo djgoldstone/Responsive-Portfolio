@@ -14,9 +14,9 @@ ___
 
 ##Index:
 
-![Index Page 980px](assets/images/index_page_screenshot.png)
-![Index Page 768px](assets/images/portfolio-page-screenshot.png)
-![Index Page 640px](assets/images/contact-page-screenshot.png)
+![Index Page 980px](assets/images/index-page-screenshot-980.png)
+![Index Page 768px](assets/images/index-page-screenshot-768.png)
+![Index Page 640px](assets/images/index-page-screenshot-640.png)
 
 ___
 
@@ -24,12 +24,12 @@ ___
 
 ![Portfolio Page 980px](assets/images/portfolio-page-screenshot-980.png)
 ![Portfolio Page 768px](assets/images/portfolio-page-screenshot-768.png)
-![Portfolio Page 640px](assets/images/contact-page-screenshot-640.png)
+![Portfolio Page 640px](assets/images/portfolio-page-screenshot-640.png)
 
 ___
 
 ##Contact:
 
-![Contact Page 980px](assets/images/index_page_screenshot.png)
-![Contact Page 768px](assets/images/portfolio-page-screenshot.png)
-![Contact Page 640px](assets/images/contact-page-screenshot.png)
+![Contact Page 980px](assets/images/portfolio-page-screenshot-980.png)
+![Contact Page 768px](assets/images/portfolio-page-screenshot-768.png)
+![Contact Page 640px](assets/images/portfolio-page-screenshot-640.png)
